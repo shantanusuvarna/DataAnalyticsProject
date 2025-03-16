@@ -16,7 +16,8 @@ pip install pandas sqlalchemy pyodbc kaggle
 
 ### Steps to Run
 1. Download the Dataset
-      kaggle datasets download ankitbansal06/retail-orders -f orders.csv --path D:/Python/DataAnalyticsProject/Data
+   
+   kaggle datasets download ankitbansal06/retail-orders -f orders.csv --path D:/Python/DataAnalyticsProject/Data
    
 2. Load and Process Data
    - Read the dataset and handle missing values.
